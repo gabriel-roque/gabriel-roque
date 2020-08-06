@@ -1,4 +1,4 @@
-## <img src="./assets/hi.gif" width="25"> Hi! I'm Gabriel Roque, a 👨‍💻 Sofware Developer
+## <img src="https://raw.githubusercontent.com/gabriel-roque/gabriel-roque/master/assets/hi.gif" width="25"> Hi! I'm Gabriel Roque, a 👨‍💻 Sofware Developer
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gabriel-roque)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
@@ -7,7 +7,7 @@
 
 **Talking about me:**
 
-<img width="51%" align="right" alt="Github" src="./assets/dev.png" />
+<img width="51%" align="right" alt="Github" src="https://raw.githubusercontent.com/gabriel-roque/gabriel-roque/master/assets/dev.png" />
 
 - 👨🏽‍💻 Working on [Jazida.com](https://jazida.com/)
 - 📖 Techs Articles [Medium](medium.com/@gabriel.roque)
