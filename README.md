@@ -10,7 +10,7 @@
 <img width="51%" align="right" alt="Github" src="https://raw.githubusercontent.com/gabriel-roque/gabriel-roque/master/assets/dev.png" />
 
 - 👨🏽‍💻 Working on [Jazida.com](https://jazida.com/)
-- 📖 Techs Articles [Medium](medium.com/@gabriel.roque)
+- 📖 Techs Articles [Medium](https://medium.com/@gabriel.roque)
 - 🎓 Graduating in Information Systems
 - 🇧🇷 Live in Brazil
 
