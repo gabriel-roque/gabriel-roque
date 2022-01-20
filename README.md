@@ -11,6 +11,7 @@
 - 👨🏽‍💻 Working on [Jazida.com](https://jazida.com/)
 - 📖 Techs Articles [Medium](https://medium.com/@gabriel.roque)
 - 🎓 Graduated in Information Systems
+- 🎓 MBA in Software Architecture
 - 🇧🇷 Live in Brazil
 
 ❤ _Passionate about technology, innovation and the ability to make the world a better place with innovative solutions!_
