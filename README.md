@@ -8,7 +8,7 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/gabriel-roque/gabriel-roque/master/assets/dino-chrome.gif"/>
 
-- 👨🏽‍💻 Working on [Jazida.com](https://jazida.com/)
+- 👨🏽‍💻 Working on [Wiipo](https://wiipo.com/)
 - 📖 Techs Articles [Medium](https://medium.com/@gabriel.roque)
 - 🎓 Graduated in Information Systems
 - 🎓 MBA in Software Architecture
