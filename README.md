@@ -6,7 +6,7 @@
 
 **Talking about me:**
 
-<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/gabriel-roque/gabriel-roque/master/assets/dino-chrome.gif"/>
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/gabriel-roque/gabriel-roque/master/assets/dino-chrome.gif"/>
 
 - 👨🏽‍💻 Working on [Wiipo](https://wiipo.com/)
 - 📖 Techs Articles [Medium](https://medium.com/@gabriel.roque)
