@@ -17,6 +17,11 @@
 ❤ _Passionate about technology, innovation and the ability to make the world a better place with innovative solutions!_
 
 <hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1)]()
+
 <div>
   <img align="left" width="44%" alt="Gabriel github stats" src="https://github-readme-stats.vercel.app/api?username=gabriel-roque&show_icons=true&hide_border=true&theme=dracula" />
 </div>
+
+
