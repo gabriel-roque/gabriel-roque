@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/gabriel-roque/gabriel-roque/master/assets/hi.gif" width="25"> Hi! I'm Gabriel Roque, a 👨‍💻 Software Developer
+## <img src="https://raw.githubusercontent.com/gabriel-roque/gabriel-roque/master/assets/hi.gif" width="25"> Hi! I'm Gabriel Roque, a 👨‍💻 Software Enginner
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gabriel-roque)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-roque/)
