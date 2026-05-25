@@ -8,7 +8,6 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/gabriel-roque/gabriel-roque/master/assets/dino-chrome.gif"/>
 
-- 📖 Techs Articles [Medium](https://medium.com/@gabriel.roque)
 - 🎓 Graduated in Information Systems
 - 🎓 MBA in Software Architecture
 - 🇧🇷 Live in Brazil
@@ -18,9 +17,3 @@
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1)]()
-
-<div>
-  <img align="left" width="44%" alt="Gabriel github stats" src="https://github-readme-stats.vercel.app/api?username=gabriel-roque&show_icons=true&hide_border=true&theme=dracula" />
-</div>
-
-
